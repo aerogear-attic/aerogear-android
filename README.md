@@ -1,8 +1,8 @@
 # aerogear-android
 
-## Deprecation
+## Deprecated
 
-This project was split in some modules. Take a look at the new modules. If you need access our old versions. See our [release](https://github.com/aerogear/aerogear-android/releases) tags
+This project was split in separate modules. Take a look at the new modules. If you need access our old versions, see our [release](https://github.com/aerogear/aerogear-android/releases) tags
 
 | Library  | Repository                                            |
 |:---------|:------------------------------------------------------|
